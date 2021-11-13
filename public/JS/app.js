@@ -1,5 +1,3 @@
-console.log("JS file loaded .")
-
 // fetch('http://localhost:3000/weather?search=patna').then((response)=>
 // {
 //     response.json().then((data)=>
