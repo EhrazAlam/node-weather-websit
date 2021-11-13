@@ -1,19 +1,3 @@
-// fetch('http://localhost:3000/weather?search=patna').then((response)=>
-// {
-//     response.json().then((data)=>
-//     {
-//         if(data.error)
-//         {
-//             console.log(data.error)
-//         }
-//         else
-//         {
-//         console.log(data.place)
-//         console.log(data.forecast)
-//         }
-//     })
-// })
-
 const form = document.querySelector('Form')
 const input = document.querySelector('input')
 const message1 = document.querySelector('#message-1')
