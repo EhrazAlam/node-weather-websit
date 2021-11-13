@@ -22,7 +22,6 @@ const message2 = document.querySelector('#message-2')
 form.addEventListener('submit', (e) => {
     e.preventDefault()
     const location = input.value
-    console.log(location)
 
     message1.textContent = 'Loading....'
     message2.textContent = ''
